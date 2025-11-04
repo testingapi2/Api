@@ -1,6 +1,6 @@
 {
-  "status":"200",
-  "data":[
+  "status": "200",
+  "data": [
     {
       "name": "movie 1",
       "image": "https://drive.google.com/file/d/1bd82QJpxAQC_bn3dNxkwY271RV1_MxbP/preview",
@@ -30,6 +30,6 @@
       "name": "movie 6",
       "image": "https://drive.com",
       "url": "https://drive.com"
-    },
+    }
   ]
 }

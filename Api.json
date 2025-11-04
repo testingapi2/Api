@@ -1,0 +1,35 @@
+{
+  "status":"200",
+  "data":[
+    {
+      "name": "movie 1",
+      "image": "https://drive.com",
+      "url": "https://drive.com"
+    },
+    {
+      "name": "movie 2",
+      "image": "https://drive.com",
+      "url": "https://drive.com"
+    },
+    {
+      "name": "movie 3",
+      "image": "https://drive.com",
+      "url": "https://drive.com"
+    },
+    {
+      "name": "movie 4",
+      "image": "https://drive.com",
+      "url": "https://drive.com"
+    },
+    {
+      "name": "movie 5",
+      "image": "https://drive.com",
+      "url": "https://drive.com"
+    },
+    {
+      "name": "movie 6",
+      "image": "https://drive.com",
+      "url": "https://drive.com"
+    },
+  ]
+}
